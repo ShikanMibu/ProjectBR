@@ -1,0 +1,55 @@
+ID;A;B;C;D;FullName;E;F;G;H;SpawnChance;Clefs;Typedespawn;FirstEvent;ShopEvent;Etage;FirstEventChat;FirstEventValue
+0;1;;;;L'Entree;Le Hall d'Entree;;;;0;1;0;1;0;RDC;Bienvenue jeune aventurier, le grand Exam t'attend quelque part dans ce manoir. Sauras tu capable d'en venir a bout ?;0
+1;0;2;3;4;Le Hall d'Entree;L'Entree;Le Paliers des Escaliers vers le 1er etage;Le Couloir Aile Gauche;Le Couloir Aile Droite;0;1;0;1;1;RDC;Vous entrez dans le grand Hall, cet immense Manoir se dresse devant vous.;0
+2;1;5;6;;Le Paliers des Escaliers vers le 1er etage;Le Hall d'Entree;L'Escalier Gauche RDC / 1er Etage;L'Escalier Droit RDC / 1er Etage;;50;1;2;1;0;RDC;Deux grand escalier dresse un chemin vers le 1er etage.;0
+3;1;7;;;Le Couloir Aile Gauche;Le Hall d'Entree;Le Corridor A Aile Gauche;;;50;1;2;0;0;RDC;;0
+4;1;10;24;;Le Couloir Aile Droite;Le Hall d'Entree;Loge du Gardien;Corridor A Aile Droite;;50;1;2;0;0;RDC;;0
+5;2;36;;;L'Escalier Gauche RDC / 1er Etage;Le Paliers des Escaliers vers le 1er etage;Le Palier 1er Etage Aile Gauche;;;0;1;0;5;0;RDC;Des enormes rocher devalent les escaliers en votre directions !;10
+6;2;37;;;L'Escalier Droit RDC / 1er Etage;Le Paliers des Escaliers vers le 1er etage;Le Palier 1er Etage Aile Droite;;;0;1;0;0;0;RDC;;0
+7;3;8;9;;Le Corridor A Aile Gauche;Le Couloir Aile Gauche;Le Corridor B Aile Gauche;La Reserve Aile Gauche;;50;1;3;0;0;RDC;;0
+8;7;13;14;15;Le Corridor B Aile Gauche;Le Corridor A Aile Gauche;L'Ascenseur A;Le Corridor C Aile Gauche;Le Corridor D Aile Gauche;50;1;3;0;0;RDC;;0
+9;7;;;;La Reserve Aile Gauche;Le Corridor A Aile Gauche;;;;80;1;8;3;0;RDC;Vous trouvez un petit coffre qui contient 1 potion;3
+10;4;;;;La Loge du Gardien;Le Couloir Aile Droite;;;;80;1;12;3;0;RDC;Dans un casier, se cache une petite armure en cuivre;2
+11;24;19;20;21;Le Corridor B Aile Droite;Le Corridor A Aile Droite;Le Corridor C Aile Droite;La Salle a manger A;Le Cellier A;45;1;3;0;0;RDC;;0
+12;24;21;17;;La Cuisine A Aile Droite;Le Corridor A Aile Droite;Le Cellier A;La Cuisine B Aile Droite;;80;1;6;1;0;RDC;Dans cette cuisine, rien ne traine. Vous fouillez un peu les etageres mais vous n'y trouvez rien…;0
+13;8;33;;;L'Ascenseur A;Le Corridor B Aile Gauche;Le Corridor D Aile Gauche;;;0;2;0;1;0;RDC;Magnifique ! La cle marche ! L'ascenseur ouvre ses portes, vous pouvez maintenant changer d'etage facilement.;0
+14;8;16;;;Le Corridor C Aile Gauche;Le Corridor B Aile Gauche;L'Impasse Aile Gauche;;;50;1;3;0;0;RDC;;0
+15;8;23;19;;Le Corridor D Aile Gauche;Le Corridor B Aile Gauche;Les Latrines;Le Corridor C Aile Droite;;50;1;3;1;0;RDC;;0
+16;14;;;;L'Impasse Aile Gauche;Le Corridor C Aile Gauche;;;;100;1;7;0;0;RDC;;0
+17;12;18;;;La Cuisine B Aile Droite;La Cuisine A Aile Droite;La Trap Cuisine B Aile Droite;;;80;1;4;2;0;RDC;Vous tombez nez a nez avec un immense Minotaure il n'a clairement pas envie de discuter !;62
+18;17;52;;;La Trap Cuisine B Aile Droite;La Cuisine B Aile Droite;Le Sous-sol Sombre;;;0;4;0;1;0;RDC;La serrure finis par ceder, la trap s'ouvre et vous vous glisser sous le sol de la cuisine…;0
+19;11;15;;;Le Corridor C Aile Droite;Le Corridor B Aile Droite;Le Corridor D Aile Gauche;;;50;1;3;0;0;RDC;;0
+20;11;22;;;La Salle a manger A;Le Corridor B Aile Droite;La Salle a manger B;;;80;1;15;1;0;RDC;La Salle a manger s'etend sur une autre piece, une presence pesante en emane;0
+21;11;12;;;Le Cellier A;Le Corridor B Aile Droite;La Cuisine A Aile Droite;;;60;1;15;1;1;RDC;Surprenant ! Le marchand se trouve egalement ici, dans le cellier, comme si il pouvait etre a deux endroit a la fois !;0
+22;20;;;;La Salle a manger B;La Salle a manger A;;;;80;1;39;3;0;RDC;Arrivez dans la piece vous vous rendez compte que la presence pesante viens d'une epee poser sur la table. Dans votre main elle brille d'un rouge inquietant !;16
+23;15;;;;Les Latrines;Le Corridor D Aile Gauche;;;;0;1;0;0;0;RDC;;0
+24;4;11;12;;Le Corridor A Aile Droite;Le Couloir Aile Droite;Le Corridor B Aile Droite;La Cuisine A Aile Droite;;45;1;5;0;0;RDC;;0
+25;36;29;30;31;Le Corridor A Aile Gauche;Le Palier 1er Etage Aile Gauche;Le Corridor C Aile Gauche;La Chambre A Aile Gauche;La Chambre B Aile Gauche;45;1;5;0;1;1er Etage;;0
+26;37;40;41;42;Le Corridor A Aile Droite;Le Palier 1er Etage Aile Droite;Le Balcon A Aile Droite;Le Balcon B Aile Droite;Le Corridor B Aile Droite;45;1;5;0;0;1er Etage;;0
+27;36;33;34;35;Le Corridor B Aile Gauche;Le Palier 1er Etage Aile Gauche;Le Corridor D Aile Gauche;La Chambre C Aile Gauche;Le Balcon A Aile Gauche;45;1;5;0;0;1er Etage;;0
+28;36;;;;Le Vestiaire;Le Palier 1er Etage Aile Gauche;;;;80;1;23;3;0;1er Etage;Sur une chaise, dans la poche d'une veste, vous trouvez une petite potion de soin.;3
+29;25;32;;;Le Corridor C Aile Gauche;Le Corridor A Aile Gauche;La Chambre du Roi;;;45;1;5;0;0;1er Etage;;0
+30;25;;;;La Chambre A Aile Gauche;Le Corridor A Aile Gauche;;;;45;1;13;6;0;1er Etage;Attirer par le magnifique lit, vous faites une petite sieste !;100
+31;25;;;;La Chambre B Aile Gauche;Le Corridor A Aile Gauche;;;;45;1;13;0;0;1er Etage;;0
+32;29;;;;La Chambre du Roi;Le Corridor C Aile Gauche;;;;0;1;0;0;0;1er Etage;;0
+33;27;38;13;;Le Corridor D Aile Gauche;Le Corridor B Aile Gauche;Le Corridor E Aile Gauche;L'Ascenseur A;;45;1;5;0;0;1er Etage;;0
+34;27;39;;;La Chambre C Aile Gauche;Le Corridor B Aile Gauche;La Salle de Bain;;;80;1;13;1;0;1er Etage;Au fond de cette chambre, derriere une porte, se trouve une salle de bain, meme a travers la porte vous pouvez ressentir une sensation extremement desagreable…;0
+35;27;;;;Le Balcon A Aile Gauche;Le Corridor B Aile Gauche;;;;100;1;26;2;0;1er Etage;Alors que vous prenez un moment pour regarder le ciel, un immense Griffon vous couvre la vue et vous fonce dessus !;52
+36;5;25;27;28;Le Palier 1er Etage Aile Gauche;L'Escalier Gauche RDC / 1er Etage;Le Corridor A Aile Gauche;Le Corridor B Aile Gauche;Le Vestiaire;30;1;6;1;0;1er Etage;Vous arrivez au 1er etage du cote de l'aile gauche du manoir, un vestiaire se trouve sur votre gauche et devant vous, deux grand couloirs.;0
+37;6;26;;;Le Palier 1er Etage Aile Droite;L'Escalier Droit RDC / 1er Etage;Le Corridor A Aile Droite;;;30;1;6;1;0;1er Etage;En haut de l'escalier le palier du 1er etage vous acceuil avec un grand couloir et d'immense tableaux sur les murs.;0
+38;33;48;;;Le Corridor E Aile Gauche;Le Corridor D Aile Gauche;Le Corridor D Aile Droite;;;45;1;5;0;0;1er Etage;;0
+39;34;;;;La Salle de Bain;La Chambre C Aile Gauche;;;;80;1;35;0;0;1er Etage;;0
+40;26;;;;Le Balcon A Aile Droite;Le Corridor A Aile Droite;;;;100;1;26;1;0;1er Etage;Ce balcon vous offre un moment tres relaxant et un grand bol d'air frais.;0
+41;26;;;;Le Balcon B Aile Droite;Le Corridor A Aile Droite;;;;100;1;26;2;0;1er Etage;Vous prenez un peu d'air frais, un moment agreable ecourte par l'arriver d'un Griffon, puissant, impressionant, il en veut a votre vie !;51
+42;26;43;44;45;Le Corridor B Aile Droite;Le Corridor A Aile Droite;La Bibliotheque A Aile Droite;L'Atelier A Aile Droite;Le Corridor C Aile Droite;45;1;5;0;0;1er Etage;;0
+43;42;46;;;La Bibliotheque A Aile Droite;Le Corridor B Aile Droite;La Bibliotheque B Aile Droite;;;90;1;24;0;1;1er Etage;;0
+44;42;;;;L'Atelier A Aile Droite;Le Corridor B Aile Droite;;;;80;1;0;7;0;1er Etage;Votre premier pied poser dans la salle qu'une energie vous entoure et s'accumule autour de vous ! ;60
+45;42;47;48;;Le Corridor C Aile Droite;Le Corridor B Aile Droite;La Salle du Choix;Le Corridor D Aile Droite;;45;1;5;1;0;1er Etage;Sur la porte devant vous est ecrit : Entrez dans la salle du choix seulement si vous etes sur de vous.;0
+46;43;;;;La Bibliotheque B Aile Droite;La Bibliotheque A Aile Droite;;;;90;1;24;0;0;1er Etage;;0
+47;45;49;50;51;La Salle du Choix;Le Corridor C Aile Droite;La Salle de l'Ame;La Salle de la vie;La Salle de la guerre;0;3;0;8;0;1er Etage;La porte se referme derriere vous...;0
+48;45;38;;;Le Corridor D Aile Droite;Le Corridor C Aile Droite;Le Corridor E Aile Gauche;;;45;1;4;0;0;1er Etage;;0
+49;47;;;;La Salle de l'Ame;La Salle du Choix;;;;0;5;0;7;0;1er Etage;;2
+50;47;;;;La Salle de la vie;La Salle du Choix;;;;0;6;0;2;0;1er Etage;;17
+51;47;;;;La Salle de la guerre;La Salle du Choix;;;;0;7;0;2;0;1er Etage;;18
+52;18;53;;;Le Sous-sol Sombre;La Trap Cuisine B Aile Droite;Salle du grand Exam;;;100;1;60;1;0;Cave;Aucune lumiere n'atteint cet endroit. Il n'y a pas de retour en arriere si vous passez la porte devant vous…;0
+53;52;;;;Salle du grand Exam;Le Sous-sol Sombre;;;;0;1;0;4;0;Cave;;0
