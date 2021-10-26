@@ -1,0 +1,20 @@
+ID;Fullname;HP;DMG;Pots;Prix;loot
+0;Un Couteau;0;2;0;20;
+1;Une Potions de soins;0;0;1;10;
+2;Une Armure en cuivre;10;0;0;15;
+3;Une Potions de soins;0;0;1;10;
+4;Un Pistolet;0;5;0;45;
+5;Deux potions de soins;0;0;2;18;
+6;Une Armure en titane;20;0;0;27;
+7;Une fourchette;0;1;0;5;
+8;Un Livre de sort;5;10;0;60;
+9;Une marmitte;0;0;3;30;
+10;Le plastron des damné;30;5;0;110;
+11;Double Dague;0;30;0;110;
+12;La Cape Solaire;40;5;0;150;
+13;Le Rasoir Sanglant;20;20;0;180;
+14;Une potions de soins;0;0;1;15;
+15;Le Livre Maudit;1;1;1;300;
+16;La lame de sang;0;5;0;5000;
+17;Le Cœur Hextech;100;0;0;5000;
+18;L'enchantement de feu;0;45;0;5000;

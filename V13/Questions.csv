@@ -1,0 +1,221 @@
+ID;Question;Answer;Panswer0;Panswer1;Panswer2;Panswer3;Type;IDM;Fullname;Letters
+1;Qu'est ce que le MDA;1;Il assure la distribution du courrier du serveur de rattachement vers la BAL distante cliente;Il assure la distribution du courrier entre deux serveurs;Assure le stockage du courrier dans le serveur;Assure le stockage du courrier dans le client de messagerie;MESS;A6;Messagerie;A
+2;Un Systeme de messagerie emploie une communication de type:;1;Asynchrone;Synchrone;Full Duplex;Simplex;MESS;A7;Messagerie;A
+3;SMTP est:;1;Un protocole de messagerie indispensable et unique;Un des protocoles de gestion de BAL;Un logiciel de client de messagerie;Un logiciel de serveur de messagerie;MESS;A8;Messagerie;A
+4;Un WEBMAIL est:;1;Un client de messagerie distant accessible via un navigateur;Un serveur de messagerie situe dans internet;Un client de messagerie permettant d'aller sur Internet;Une BAL en ligne;MESS;A9;Messagerie;A
+5;Quel algorithme peut etre utilise en chiffrement symetrique;1;AES;EAS;RAS;RSA;MESS;A10;Messagerie;A
+6;Cci signifie:;1;Copie carbone invisible;Couper-coller-inverse;Copier-coller-inverse;Couper-copier-inserer;MESS;A11;Messagerie;A
+7;Le protocole POP3 concerne:;1;Les UA autonomes;Les UA connectes;Les UA co-resident;Les UA deconnecte;MESS;A12;Messagerie;A
+8;MUA ou UA signifie;2;Mail unified Access;Mail User Agent;Mail User Access;Managment User Acces;MESS;A13;Messagerie;A
+9;Un MTA est:;2;Un serveur de messagerie;Un logiciel de serveur de messagerie;Un logiciel de client de messagerie;Un Multi Transfer Acces;MESS;A14;Messagerie;A
+10;POP3 est:;2;Un protocole de messagerie indispensable et unique;Un des protocoles de gestion de BAL;Un logiciel de client de messagerie;Un logiciel de serveur de messagerie;MESS;A15;Messagerie;A
+11;La pile protocolaire TCP/IP comprend les outils necessaires a la mise en place d'un UA connecte;2;Oui;Non;Vide;Vide;MESS;A16;Messagerie;A
+12;Un UA connecte peut fonctionner avec n'importe quel type de MTA/UA?;2;Oui;Non;Vide;Vide;MESS;A17;Messagerie;A
+13;Comment la securite a-t-elle ete renforce sur le protocole POP3? ;2;En integrant le chiffrement des donnees envoyees;En integrant un protocole d'authentification specifique;En demandant un mot de passe a la reception;En demandant un accuse de reception;MESS;A18;Messagerie;A
+14;Quel affirmations est vrais:;2;Le chiffrement asymetrique emploi une seule cle pour chiffrer et dechiffrer;Le chiffrement asymetrique utilisera une cle publique pour chiffrer et une cle prive pour dechiffrer ou inversement;En chiffrement asymetrique on peut utiliser des cles prives et chiffres de differentes personnes pour traiter un message;Le chiffrement asymetrique est moins gourmant en ressource ordinateur que le chiffrement symetrique;MESS;A19;Messagerie;A
+15;Quel est le port d'ecoute du protocole POP3;2;Le port 23;Le prot 110;Le port 25;Le port 143;MESS;A20;Messagerie;A
+16;Le chiffrement symetrique utilise:;2;Un coffre fort securise;Une cle symetrique ou secrete;Une cle publique;Une cle privee;MESS;A21;Messagerie;A
+17;Peut on utiliser deux protocoles de hachage differents pour condenser et verifier?;2;Oui;Non;Vide;Vide;MESS;A22;Messagerie;A
+18;Cc signifie:;2;Copier-coller;Copie carbone;Couper-coller;Couper-copier;MESS;A23;Messagerie;A
+19;"Qu'est ce qu'un ""enregistrement A""?";3;L'association FQDN destinataire final + @IP serveur de messagerie;L'association d'une @IPv4 et une @IPv6;L'association d'un FQDN d'un hote+son @IPv4;L'association d'un FQDN d'un hote+son @IPv6;MESS;A24;Messagerie;A
+20;"Qu'est ce qu'un ""enregistrement MX""?";3;L'association FQDN destinataire final + @IP serveur de messagerie;L'association FQDN destinataire final + @IP destinataire final;L'association FQDN serveur de messagerie+numero de preference;L'association FQDN serveur de messagerie+@IP serveur de messagerie;MESS;A25;Messagerie;A
+21;HTTP signifie:;3;Hyper Text Temp Protocol;Hyper Textual Temporel Protocol;Hyper Text Transfert Protocol;Hyper Textual Transfert Protocol;MESS;A26;Messagerie;A
+22;Pour envoyer un mail il est preferable d'utiliser le format:;3;Texte brut;Texte enrichie;HTML;XML;MESS;A27;Messagerie;A
+23;Quels affirmations sont fausses:;3;Le chiffrement symetrique permet de securiser des donnees;une cle de chiffrement symetrique est unique;Il n'y a aucun risque a transmettre sa cle de chiffrement symetrique;Il faut s'assurer de transmettre sa cle de chiffrement symetrique sur un canal securise;MESS;A28;Messagerie;A
+24;Quel port est utilise par le protocole SMTP;3;Le port 23;Le port 110;le port 25;Le port 143;MESS;A29;Messagerie;A
+25;Quel est le role du protocole SMTP?;3;Distribuer le mail depuis le serveur jusqu'au destinataire;Acheminer le mail depuis l'expediteur jusqu'au serveur de rattachement du destinataire;Le placement du mail dans la BAL distante du destinataire depuis la BAL du serveur;Assurer la connexion securise entre l'UA et le MTA;MESS;A30;Messagerie;A
+26;Le FQDN s'applique a :;4;un Workgroup;Un hote d'un workGroup;Un nom de domaine;Un hote appartenant a un domaine;MESS;A31;Messagerie;A
+27;Quel algorithme de chiffrement peut etre utilise dans un chiffrement asymetrique?;4;AES;EAS;RAS;RSA;MESS;A32;Messagerie;A
+28;Quel est le port d'ecoute du protocole IMAP;4;Le port 23;Le prot 110;Le port 25;Le port 143;MESS;A33;Messagerie;A
+29;Le protocole de hachage SHA 256 permet :;4;De decouper en plusieurs morceaux une donnee;De compresser une donnee;De chiffrer une donnee;De verifier l'integrite d'une donnee;MESS;A34;Messagerie;A
+30;Le protocole IMAP4 concerne:;4;Les UA autonomes;Les UA connectes;Les UA co-resident;Les UA deconnecte;MESS;A35;Messagerie;A
+31;Un cable Ethernet utilise un connecteur de type;4;RJ 11;COM;USB;RJ 45;ARRES;B6;Architecture Reseau;B
+32;Pour connecter un Switch et un ordinateur il faut utiliser:;4;Une connection directe;Les scotcher;Utiliser un cable Croise;Utiliser un cable droit;ARRES;B7;Architecture Reseau;B
+33;Quel type de liaison est a banir dans les architectures reseaux modernes;2;Liaisons Point e Point;Liaison Multipoints;Vide;Vide;ARRES;B8;Architecture Reseau;B
+34;Le modele OSI se compose de ?;4;4 Couches;5 Couches;6 couches;7 couches;ARRES;B9;Architecture Reseau;B
+35;Quelles sont les couches du modele OSI?;2;Session/Application/Presentation/Transport/Reseau/Liaison de donnee/Physique;Application/Presentation/Session/Transport/Reseau/Liaison de donnee/Physique;Application/Transport/Reseau/Liaison de donnee;Application/Transport/Internet/Liaison de donnee;ARRES;B10;Architecture Reseau;B
+36;Qu'est ce qu'un PDU;1;l'ensemble des informations echangees entre niveaux des couches du modele OSI ou TCP/IP ;Un protocole de couche 3;Un protocole de routage;L'en tete d'un SDU;ARRES;B11;Architecture Reseau;B
+37;Comment appele-t'on l'en tete d'une donnee issus d'une des couches du modele OSI?;3;SDU;SDA;PCI;PDU;ARRES;B12;Architecture Reseau;B
+38;Quel norme electrique de modulation est utilisee pour la transmission d'une information  numerique via une paire torsadee?;1;RS 232;RS 422;RJ 45;RJ 11;ARRES;B13;Architecture Reseau;B
+39;Qu'est ce que la norme RJ 45;2;Une norme de connectique specifique utilise dans les Telecom;Une norme de connectique utilise par le protocole Ethernet;Une norme de connectique pour les reseaux sans fils;Une norme de connectique pour la fibre optique;ARRES;B14;Architecture Reseau;B
+40;Quel noeud va travailler en couche 3 ?;2;Switch;Routeur;Repeteur;Passerelle;ARRES;B15;Architecture Reseau;B
+41;Qu'est ce que la modulation?;2;La transmition d'une information cryptee;La transformation d'une donnee binaire en signal electrique;Une perturbation du signal lie a de l'echo;Le passage de la lune devant le soleil;ARRES;B16;Architecture Reseau;B
+42;Qu'est ce que l'attenuation de signal?;1;C'est la perte d'intensite du signal;C'est la contraction du signal dans le temps;C'est l'inversion du signal;C'est la diminution volontaire de l'intensite du signal;ARRES;B17;Architecture Reseau;B
+43;Qu'est ce que la reflexion de signal?;2;C'est l'emission d'un doublon du signal;C'est la production d'un echo;C'est le retour vers l'expediteur d'un signal;C'est quand le signal reflechi au sens de sa vie;ARRES;B18;Architecture Reseau;B
+44;Qu'est ce que le bruit?;3;C'est la production d'ondes sonores par l'ordinateurs lorsqu'il emet un signal;C'est la capacite a transmettre des fichiers sons;C'est l'introduction d'un signal parasite qui se superpose au signal emis;C'est le remplacement d'un signal emis par un signal parasite;ARRES;B19;Architecture Reseau;B
+45;Qu'est ce que la diaphonie?;4;C'est quand deux composant font du bruit;C'est quand un signal passe par deux conducteurs en mÃªme temps;C'est la production d'un bruit par une source interne au conducteur;C'est la production d'un bruit par une source externe au conducteur;ARRES;B20;Architecture Reseau;B
+46;Qu'est ce que la Paradiaphonie?;1;C'est la production d'un bruit par une source interne au conducteur;C'est un bruit qui a eu une collision dans son enfance;C'est la production d'un bruit par une source externe au conducteur;C'est l'action de produire une interference entre deux materiels differents.;ARRES;B21;Architecture Reseau;B
+47;Qu'est ce que la dispersion d'un signal?;3;C'est quand le signal part vers le mauvais destinataire;C'est quand un datagramme n'arrive pas a etre route;C'est quand un signal se deforme en amplitude (il s'allonge);C'est quand un signal met plus de temps que prevu pour arriver;ARRES;B22;Architecture Reseau;B
+48;Qu'est ce que la gigue?;2;C'est une barriere qui empeche un signal de passer;C'est la perte de synchronisation d'horloge entre l'emetteur et l'expediteur;Un decalage dans le temps d'un signal;Un algorithme de modulation;ARRES;B23;Architecture Reseau;B
+49;Qu'est ce que la latence?;3;C'est la memoire cache d'un routeur;C'est la capacite d'un modem a temporiser le traffic sortant;C'est un decalage dans le temps entre l'emission et la reception d'un signal;C'est de la merde!!!!;ARRES;B24;Architecture Reseau;B
+50;Qu'est ce que la collision de signal?;2;C'est quelque chose de recherche dans la mise en place d'un reseau;C'est l'annulation d'un signal par un autre signal;C'est la destruction d'un signal qui irai trop vite a l'arrive;La reponse D;ARRES;B25;Architecture Reseau;B
+51;Les reseaux d'entreprises actuels n'utilisent que des topologies avec des liaisons multipoints;2;Oui;Non;Vide;Vide;ARRES;B26;Architecture Reseau;B
+52;Une architecture de reseau qui n'obei pas strictement aux regles des reseau point a point est qualifie de :;3;Reseau point a point partiel;Reseau en maillage partiel;Reseau multipoint;Reseau en etoile;ARRES;B27;Architecture Reseau;B
+53;En entreprise la topologie reseau la plus courante est:;3;Le bus;L'anneau;L'etoile;Le maillage partiel;ARRES;B28;Architecture Reseau;B
+54;La modulation de phase est une modulation:;1;Qui change la valeur d'une porteuse en decalant le signal;Reduit la frequence d'une porteuse;Augmente la frequence d'une porteuse;Joue sur l'amplitude d'un porteuse;ARRES;B29;Architecture Reseau;B
+55;L'amplitude d'une porteuse designe:;1;La hauteur de la courbe sinusoidale;La largeur de la courbe sinusoidale;L'alternance des valeures de la courbe sinusoidale;Pas grand-chose;ARRES;B30;Architecture Reseau;B
+56;Les quatres sous couches de la couche 1 du modele OSI sont:;4;Amplitude/ codage/ modulation/ demodulation;Serialisation/ codage/ modulation/ demodulation;Seriation/Encodage/Modulation/Couplage physique;Serialisation/Codage/Modulation/Couplage physique;ARRES;B31;Architecture Reseau;B
+57;Parmis ces quatres protocoles lequel n'est pas un protocole de couche 2;3;PPP;SDLC;IP;ETHERNET;ARRES;B32;Architecture Reseau;B
+58;Le protocole oriente bit est caracterise par:;1;Un flag en debut et fin de trame;La mise en pace de caracteres speciaux pour delimiter le corps de la trame de l'en tete et du CRC;L'inscription dans un champs de l'en tete la taille du champs d'information;Il ne s'agit aps d'un protocole de couche 2;ARRES;B33;Architecture Reseau;B
+59;Un flag est:;3;Un delimitateur particulier d'une 3 PDU;Un delimitateur particulier d'une 2 PDU;un octet particulier 01111110 marquant le debut et la fin d'une trame;Un caractere particulier;ARRES;B34;Architecture Reseau;B
+60;Les protocoles orientes bits sont utilises:;1;Par les FAI;En Lan;En Wifi;En Bleutooth;ARRES;B35;Architecture Reseau;B
+61;Une adresse reseau se caracterise par:;2;Un Host ID a 254;Un Host ID a 0;Ne peut pas etre trouve;Un nombre impaire dans le 4eme octet;ARRES;B36;Architecture Reseau;B
+62;Un Switch est:;2;Un commutateur de couche 3;un commutateur de couche 2;Un materiel qui route;Un materiel de couche 1;ARRES;B37;Architecture Reseau;B
+63;Combien de protocoles comporte la couche 4 du modele OSI?;2;1;2;3;4;ARRES;B38;Architecture Reseau;B
+64;Qu'est ce qu'une adresse IPv4?;2;Une adresse logique representee en decimal pointe sur 8 octets;Une adresse logique representee en decimale pointee sur 4 octets;Une adresse logique en decimale pointe sur 8 bits;Une adresse logique representee en binaire;ARRES;B39;Architecture Reseau;B
+65;Ma carte reseau possede une adresse ip 169.254.24.34;2;c'est une adresse de classe C;c'est une adresse APIPA;c'est une adresse publique;c'est une adresse prive;ARRES;B40;Architecture Reseau;B
+66;Ma carte reseau possede une adresse ip 169.254.24.34;3;Mon interface reseau est parfaitement configuree;Mon cable reseau est deconnecte;Je n'arrive pas a joindre mon serveur DHCP;Je n'arrive pas a joindre mon serveur DNS;ARRES;B41;Architecture Reseau;B
+67;Un DHCP sert a:;4;Effectuer des resolutions DNS;Donner une adresse IP seule a un ordinateur;Configurer un ordinateur;Donner une configuration de couche 3 a une NIC (interface reseau);ARRES;B42;Architecture Reseau;B
+68;Le Help Desk est :;3;Un service de commande en ligne;Un aide de bureau;Un centre d'appel qui assure le support technique aupres des utilisateurs;Une commande PowerShell qui affiche l'aide en ligne;MHD;C6;Methodologie Help Desk;C
+69;Qu'est-ce qu'est le « front office »;1;La reception d'appel entrant;Un appel sortant;La reception de mails;Aucune de ces reponses;MHD;C7;Methodologie Help Desk;C
+70;Qu'est-ce qu'est le « back office »;2;La reception d'appel entrant;Un appel sortant;La reception de mails;Aucune de ces reponses;MHD;C8;Methodologie Help Desk;C
+71;Quelles sont les competences pour le support HD;3;L'antipathie;La programation C++;La pedagogie;L'impatience;MHD;C9;Methodologie Help Desk;C
+72;Definition de la DSI (direction des systemes d'information);4;Fournisseur de service externe;Fournisseur de service extranet;Fournisseur d'acces internet;Fournisseur de service interne;MHD;C10;Methodologie Help Desk;C
+73;Quel est la fonction de la DSI;2;De depasser le budget qui lui est alloue;De s'occuper de l'ensemble du materiels et logiciels qui la compose;De gerer les livraisons;De gerer le marketing;MHD;C11;Methodologie Help Desk;C
+74;Qu'est-ce qu'un service de prestations informatiques et services aux utilisateurs;3;Un service est un moyen denigrer la valeur des clients en facilitant la production des resultats par le biais d'indicateurs qualitatifs et quantitatifs.;Un service est une prestation qui consiste en la mise Ã  disposition d'une capacite technique ou intellectuelle;Un service est un moyen de delivrer de la valeur aux clients en facilitant la production des resultats par le biais d'indicateurs qualitatifs et quantitatifs.;Un service designe la personne publique ou privee qui gere une activite d'interÃªt general.;MHD;C12;Methodologie Help Desk;C
+75;Qu'est-il important de faire pour assurer un service de prestations informatiques aux utilisateurs;3;Il est important de faire l'entretien imprimantes et du materiel en acces libre consommables;Il est important de gerer des applicatifs metiers;Il est important de calibrer et de formaliser la demande et les attentes du client;Il est important d'apporter un espace de stockage securise des donnees;MHD;C13;Methodologie Help Desk;C
+76;Qu'est que l'outsourcing;2;L'outsourcing permet Ã  l'entreprise de travailler Ã  la source;L'externalisation permet Ã  l'entreprise de sous-traiter une partie de son activite;Lorsqu'une entreprise confie tout ou partie de la gestion de son systeme d'information ou processus Ã  un prestataire interne;L'outsourcing est l'internalisation qui permet le processus de deleguer certaines activites administratives;MHD;C14;Methodologie Help Desk;C
+77;Qu'est-ce qu'une ESN (anciennement SSII);2;Est l'entreprise de systeme nintendo;Est une entreprise de services numeriques qui externalise des expertises des services et des projets informatiques des directions informatiques des entreprises clientes.;Est une ecole normale superieure qui est l'une des institutions universitaires et de recherche les plus prestigieuses;Nizerolles Systemes Electroniques est un groupe international apporte des solutions sur mesure.;MHD;C15;Methodologie Help Desk;C
+78;Qu'Est-ce qu'un SLA (service level agreement);1;C'est un contrat qui definit la qualite de service requise entre un prestataire et un client.;C'est un document juridique qui precise comment utilises les ressources informatiques;C'est un contrat qui determine un desaccord entre le client et le fournisseur;Ce sont les exigences du client sur le niveau du service attendu;MHD;C16;Methodologie Help Desk;C
+79;Qu'est-ce qu'un SLR (Service Level Requirement);4;C'est un contrat qui definit la qualite de service requise entre un prestataire et un client.;C'est un document juridique qui precise comment utilises les ressources informatiques;C'est un contrat qui determine un desaccord entre le client et le fournisseur;Ce sont les exigences du client sur le niveau du service attendu;MHD;C17;Methodologie Help Desk;C
+80;La commande pour afficher le contenue d'un dossier :;2;sl;gci;dire;directory;PS;D6;Powershell;D
+81;La commande pour afficher le contenue d'un fichier :;1;get-content;get-file;set-content;set-file;PS;D7;Powershell;D
+82;La commande pour changer le contenue d'un fichier :;3;get-content;get-file;set-content;set-file;PS;D8;Powershell;D
+83;La commande pour declarer un tableau vide est :;4;$tableau={};$boom();tab=@();$Lol=@();PS;D9;Powershell;D
+84;La commande pour declarer une variable de type entier :;4;[int[]]var=;[ent]$yo=;[string]$oui=;[int]$b=;PS;D10;Powershell;D
+85;La commande pour declarer une variable de type chaine de caractere :;1;[string]$ter=;$var=;[carac]$var=;[string]var=;PS;D11;Powershell;D
+86;La commande pour declarer un hashtable :;4;[hasht]$var=;$be=@();ter=@{};$Non=@{};PS;D12;Powershell;D
+87;Laquelle de ces commandes affiche une erreur ?;3;"write-host (""comment ca va ?"")";Get-Process -Name a* | Sort-Object name -Descending;Get-Module -ListAvailable name a*;Get-Random -Minimum 0 -Maximum 10;PS;D13;Powershell;D
+88;Laquelle de ces commandes affiche 1 2 3 4 5 en colonne :;2;"write-host (""1,2,3,4;5"")";$a=@(1,2,3,4,5) | write-host;"write-host (""1"" 'n ""2"" 'n ""3"" 'n ""4"" 'n ""5"")";$a=1,2,3,4,5;PS;D14;Powershell;D
+89;Laquelle de ces commandes affiche un nombre aleatoire entre 1 et 7 ?;3;Get-Random 1..7;Get-Random [1-8];Get-Random -min 1 -max 8;Get-Random -min 0 -max 7;PS;D15;Powershell;D
+90;Laquelle de ces commandes ajoute la valeur 4 au tableau $ab :;1;$ab += 4;$ab.add(4);$ab ++ 4;add 4 | $ab;PS;D16;Powershell;D
+91;Pour declarer une variable il faut:;1;"Ecrire ""$"" puis ""nom_de_variable""";"Ecrire ""$"" puis ""un nom de variable""";"Ecrire ""variable=""";Ecrire un joli discour;PS;D17;Powershell;D
+92;Quelle ecriture est correcte et permet d'obtenir le resultat escompte;3;"write-host ""$a + $b=""$a+$b";write-host $a+$b=$c;"write-host ""$a+$b=""($a+$b)";"write-host $a""+""$b=$a+$b";PS;D18;Powershell;D
+93;"[int]$a= ""rt""";1;Produit une erreur;Creer une variable format Int;Creer une variable format String;Transforme ton ordi en machine a cafe;PS;D19;Powershell;D
+94;Un chiffrement synchrone est:;1;Une methode de chiffrement a cle unique;une methode de chiffrement ou la cle est transmise en clair;Une methode de chiffrement a cle publique et privee;Une methode de chiffrement ou la cle est transmise en chiffree;PS;D20;Powershell;D
+95;Get-command permet :;2;D'obtenir la liste des services;D'obtenir la liste des commandes;D'obtenir la liste des processus;D'obtenir la liste des protocoles;PS;D21;Powershell;D
+96;Get-process permet :;3;D'obtenir l'ensemble des services;D'obtenir l'ensemble des commandes;D'obtenir l'ensemble des processus;D'obtenir l'ensemble des protocoles;PS;D22;Powershell;D
+97;Get-service permet de:;1;D'obtenir l'ensemble des services;D'obtenir l'ensemble des commandes;D'obtenir l'ensemble des processus;D'obtenir l'ensemble des protocoles;PS;D23;Powershell;D
+98;Get-FileHash .\nomdufichier -Algorithmm MD5 permet:;2;De creer un fichier;D'effectuer un controle d'integrite de type Hachage;D'obtenir la liste des protocoles de hachage;De chiffrer des donnees;PS;D24;Powershell;D
+99;Le format NTFS permet de chiffrer les donnees les dossiers ou des lecteurs et cles USB;1;Oui;Non;Vide;Vide;PS;D25;Powershell;D
+100;Le chiffrement NTFS genere un certificat qui est lie au compte de l'utilisateur;1;Oui;Non;Vide;Vide;PS;D26;Powershell;D
+101;Changer le mot de passe ou le compte utilisateur d'un utilisateur ayant chiffrer des donnees est sans risque pour ses donnees;2;Oui;Non;Vide;Vide;PS;D27;Powershell;D
+102;Une adresse IP statique est:;3;une adresse IP que l'on ne pourra pas changer une fois definie;Une adresse IP que l'on ne peut pas partager;Une adresse IP defini par un utilisateur;Une adresse definie automatiquement;PS;D28;Powershell;D
+103;Where-object permet de:;2;Trier les objets;Filtrer les objets;Classer les objets;Ecrire un joli discours;PS;D29;Powershell;D
+104;Where-object va:;1;Permettre de selectionner seulement quelques objets en particulier;Ranger dans l'ordre alphabetique ou croissant les objets;Selectionner un ensemble d'objet ou de propriete;Effectuer une recherche selon des criteres particuliers;PS;D30;Powershell;D
+105;Select-object permet de:;4;Trier les objets;Filtrer les objets;Classer des objets;Selectionner un ensemble d'objet ou de propriete;PS;D31;Powershell;D
+106;Sort-object permet de:;1;Trier les objets;Filtrer les objets;Selectionner un ensemble d'objet ou de propriete;Rechercher un objet;PS;D32;Powershell;D
+107;L'organe de l'ordinateur charge d'effectuer les calculs sur des nombres entiers est :;1;ALU;FPU;ELU;EPU;AO;E6;Architecture des Ordinateurs;E
+108;L'organe de l'ordinateur charge d'effectuer les calculs sur des nombres reels est :;2;ALU;FPU;ELU;EPU;AO;E7;Architecture des Ordinateurs;E
+109;A l'allumage de l'ordinateur l'adresse FFFF0 correspond :;3;A la 1er adresse du systeme d'exploitation;A l'adresse du SETUP;A l'adresse du POST;A rien du tout !;AO;E8;Architecture des Ordinateurs;E
+110;A l'allumage de l'ordinateur l'adresse 0FFFF correspond :;4;A la 1er adresse du systeme d'exploitation;A l'adresse du SETUP;A l'adresse du POST;A rien du tout !;AO;E9;Architecture des Ordinateurs;E
+111;Le POST permet de ?;1;Tester les composants de la carte mere;Charge le systeme d'exploitation dans la RAM;Modifier les parametres de la SRAM-CMOS;Faire fonctionner les peripheriques;AO;E10;Architecture des Ordinateurs;E
+112;Le SETUP permet de ?;2;Faire fonctionner les peripheriques;Modifier les parametres de la SRAM-CMOS;Charge le systeme d'exploitation dans la RAM;Tester les composants de la carte mere;AO;E11;Architecture des Ordinateurs;E
+113;L'IPL permet de ?;3;Faire fonctionner les peripheriques;Tester les composants de la carte mere;Charge le systeme d'exploitation dans la RAM;Modifier les parametres de la SRAM-CMOS;AO;E12;Architecture des Ordinateurs;E
+114;l'Hyperthreading Permet de ?;4;Faire fonctionner les barrettes de RAM en dualchannel;Doubler la capaciter memoire d'un disque dur;Transformer la carte graphique pour la rendre plus rapide;Creer 2 coeur logique a partir d'un coeur physique;AO;E13;Architecture des Ordinateurs;E
+115;EFLAGS est un registre :;1;32bits;8bits;64bits;16bits;AO;E14;Architecture des Ordinateurs;E
+116;OF (OverFlow) :;2;Indique une retenue;Indique un debordement;Indicateur de resultat null;copie de bit du poids faible;AO;E15;Architecture des Ordinateurs;E
+117;CF (CarryFlag) :;3;Indicateur de resultat null;copie de bit du poids faible;Indique une retenue;Indique un debordement;AO;E16;Architecture des Ordinateurs;E
+118;ZF (ZeroFlag) :;4;copie de bit du poids faible;Indique une retenue;Indique un debordement;Indicateur de resultat null;AO;E17;Architecture des Ordinateurs;E
+119;Dans l'IR on retrouve ?;1;L'instruction actuel;L'Indicator Radiant;L'Instruction suivante;L'indicateur de calcul;AO;E18;Architecture des Ordinateurs;E
+120;IRQ 0 : ;2;Clavier;Horloge systeme;Souris;Carte graphique;AO;E19;Architecture des Ordinateurs;E
+121;IRQ 1 :;3;L'ecran;Souris;Clavier;L'ALU;AO;E20;Architecture des Ordinateurs;E
+122;IRQ 4 : ;4;Port SATA;Clavier;RTC;Port serie COM1;AO;E21;Architecture des Ordinateurs;E
+123;IRQ 8 :;1;RTC;Clavier;Port serie COM1;FPU;AO;E22;Architecture des Ordinateurs;E
+124;IRQ 12 : ;2;Clavier;Souris;RTC;ALU;AO;E23;Architecture des Ordinateurs;E
+125;IRQ 13 :;3;ALU;RTC;FPU;Port serie COM1;AO;E24;Architecture des Ordinateurs;E
+126;IRQ 14 : ;4;FPU primaire;RTC primaire;SATA primaire;IDE primaire;AO;E25;Architecture des Ordinateurs;E
+127;L'un de ces cycles n'existe pas :;1;Cycle encodage;Cycle fetch;Cycle decode;Cycle d'execution;AO;E26;Architecture des Ordinateurs;E
+128;Choisis l'affirmation vraie :;2;En Ring 3 l'utilisateur possede tout les droits !;En Ring 0 l'OS possede tout les droits;Le mode Long est un mode 128bits;Le mode protege 386 herite du mode Legacy;AO;E27;Architecture des Ordinateurs;E
+129;La ROM contient : ;3;SETUP BIOS IPL CS;BIOS RTC SETUP IPL;POST SETUP BIOS IPL;POST SETUP ALU IPL;AO;E28;Architecture des Ordinateurs;E
+130;Validation de 20 fils d'adresses : espace adressable theorique de;4;2Go;4Go;3Go;1Mo;AO;E29;Architecture des Ordinateurs;E
+131;Validation de 32 fils d'adresses : espace adressable theorique de;1;4Go;1Go;2Go;3Go;AO;E30;Architecture des Ordinateurs;E
+132;Validation de 36 fils d'adresses : espace adressable theorique de;2;16Go;64Go;32Go;128Go;AO;E31;Architecture des Ordinateurs;E
+133;Quel est l'intrue :;3;ISA;PCI;ALU;USB;AO;E32;Architecture des Ordinateurs;E
+134;Les espaces adressable de l'I/O mapping I/O sont :;4;Accessible par 2 cables diffferents;Deux espaces dedier aux peripheriques et aux calculs;Deux espaces qui se trouvent dans la carte graphiques;Accessible par un signaux de controle qui active un bus ou un autre;AO;E33;Architecture des Ordinateurs;E
+135;Les quatres registres du microprocesseurs sont:;3;Riri Fifi Loulou et Nana;RA RB RC RD;AX BX CX et DX;WX XX YX et ZX;AO;E34;Architecture des Ordinateurs;E
+136;Pour faire fonctionner un peripherique l'OS;3;Execute des instructions en Ring 3 par l'intermediaire des pilotes;Fait appel a une API pour obtenir les autorisations aupres de l'utilisateur;Execute des instructions en Ring 0 par l'intermediaire des pilotes;Ne peut pas le faire;AO;E35;Architecture des Ordinateurs;E
+137;Un processeur 64 bits est capable de;2;Lancer des logiciels 16 bits nativement;Lancer des logiciels 32 bits nativements;Vide;Vide;AO;E36;Architecture des Ordinateurs;E
+138;FFFF:0000 est:;1;Premiere adresse charge dans le processeur au demarrage;Le numero de serie du BIOS;L'adresse pour charger l'IPL;une adresse au format binaire;AO;E37;Architecture des Ordinateurs;E
+139;le registre RAX est un registre:;4;8 bits;16 bits;32 bits;64 bits;AO;E38;Architecture des Ordinateurs;E
+140;le registre CH est:;3;Un registre 16 bits;Le compteur Ordinal;L'octet de poids fort de CX;L'octet de poids faible de CX;AO;E39;Architecture des Ordinateurs;E
+141;Qu'est ce qu'un BUS;1;Un element de la carte mere permettant le transport de l'information;Une puce memoire;Une composante logicielle;Un peripherique externe;AO;E40;Architecture des Ordinateurs;E
+142;Dans windows, quelle commande permet de virtualiser les paramtetres IP;1;ipconfig /all;iproute;ip/conf;ipconfig;RS;F6;Routing and Switch;F
+143;J'habite au fin fond de la campagne, j'ai une connexion internet a faible debit, je risque moins d'etre attaque par un pirate informatique que si j'habite a Paris ?;2;VRAI;FAUX;;;RS;F7;Routing and Switch;F
+144;Quelle abreviation designe plus communement le reseau local;3;WAN;MAN;LAN;PAN;RS;F8;Routing and Switch;F
+145;Sur quelle topologie reseau le switch Ethernet se definit-il;2;Bus;Etoile;Maillage;Anneau;RS;F9;Routing and Switch;F
+146;Qu'est ce que le broadcast ?;4;Une methode d'intrusion reseau;Une pollution reseau;Une adresse reseau designant une interface unique;Une adresse de diffusion;RS;F10;Routing and Switch;F
+147;Combien de couches comporte le modele OSI;4;5;6;8;7;RS;F11;Routing and Switch;F
+148;La trame est une unite de donnees de protocole (PDU) de la couche ?;3;Application;Session;Liaison de donnees;Physique;RS;F12;Routing and Switch;F
+149;Le mode d'adresage de la couche physique est implemente par des :;2;Bits de temporisation et de synchronisation;Adresse physique;Adresse reseau logiques;Adresse postale;RS;F13;Routing and Switch;F
+150;Un CODEC depend de la couche;3;Liaison de donnees;Reseau;Presentation;Application;RS;F14;Routing and Switch;F
+151;Comment appelle-t-on un systeme permettant d'ecouter le trafic sur le reseau ?;3;Un scanner;Un routeur;Un Sniffer;Un Switch;RS;F15;Routing and Switch;F
+152;Quel est le role d'un DHCP;4;Associer des noms de domaine aux adresses numeriques;Designer une ressource sur Internet;Protocole de Diagnostic de Conflit d'Hote;Distribuer des configurations IP;RS;F16;Routing and Switch;F
+153;Quelle est la bande de frequence utilise par un acces WIFI inferieur a 300Mb/s : ;4;2,4Hz;3GHz;5GHz;2,4GHz;RS;F17;Routing and Switch;F
+154;Quel est le protocole qui permet la synchronisation entre deux ports client / serveur;1;TCP;IP;UDP;SSL;RS;F18;Routing and Switch;F
+155;Quel est l'effet de la commande Router# copy running-config startup-config sur un routeur ?;3;Le contenu de la memoire (ROM) est modifie;Le contenu de la memoire vive (RAM) est modifie.;Le contenu de la memoire vive non volatile (NVRAM) est modifie.;Le contenu de la memoire Flash est modifie;RS;F19;Routing and Switch;F
+156;Quel cable doit on utiliser pour inter-connecter deux switch;2;Cable RJ45 droit;Cable RJ45 croise;Cable console;Cable serie;RS;F20;Routing and Switch;F
+157;Le Switch se base sur les :;1;Trames;Paquets;Donnees;Bits;RS;F21;Routing and Switch;F
+158;Quel type de communication est utilise lorsque deux message peuvent se croiser pendant une conversation ?;1;Bidirectionnel simultaner;Bidirectionnel alterne;Bidirectionnel continu;Bidirectionnel commute;RS;F22;Routing and Switch;F
+159;Quels sont les avantages des VLAN ?;1;Securite et vitesse;Consommation electrique moindre;Plus de bande passante;Aucun avantage;RS;F23;Routing and Switch;F
+160;Quelle est la fonctionnalite permettant de transporter des VLAN sur une seul interface ?;2;San Goku;Trunk;San Goten;Fusion;RS;F24;Routing and Switch;F
+161;Le protocole VTP ?;2;Permet d'eviter des configurations redondantes;Permet de creer des Vlan dynamiquement;Permet d'ajouter des passerelles;Permet de proteger son VLAN;RS;F25;Routing and Switch;F
+162;Dans quel mode un commutateur VTP fonctionne-t-il s’il ne permet pas la creation de VLAN locaux mais accepte les mises a jour des VLAN a partir d'autre commutateurs du meme domaine ?;1;Client;Racine;Serveur;Transparent;RS;F26;Routing and Switch;F
+163;Quel protocole utilise-t-on pour accepter les chemins redondants dans un reseau commute ou ponte ?;2;Le protocole RIP;"Le Protocole ""spanning tree""";Le protocole IGRP;L'ISL;RS;F27;Routing and Switch;F
+164;2 PCs appartiennent a deux Vlans differents. Ils souhaite s'envoyer des donnees, en tant qu'administrateur, quelle fonction je vais mettre en place pour permettre cette echange;4;Configurer un trunk sur les ports connectes aux PCS;Mettre les 2 PCs sur le meme Vlan;Redemarrer le switch;Installer un routeur et le configurer pour effectueur un routage inter-vlan;RS;F28;Routing and Switch;F
+165;Quelle connexion fournit une session CLI securisee avec cryptage a un commutateur cisco;2;Connexion AUX;Connexion SSH;Connexion console;Connexion Telnet;RS;F29;Routing and Switch;F
+166;Une trame est transmise d'un peripherique reseau a un autre. Pourquoi est-ce que le peripherique de reception verifie le champ FCS de la trame;2;Comparer l'interface type de support entre les extremites emetteur et recepteur;Verifier la trame par rapport a d'eventuelles erreurs de transmission;Verifiez les informations du protocole de couche reseau;Verifiez que la destination de la trame correspond a l'adresse MAC du peripherique de reception;RS;F30;Routing and Switch;F
+167;A quoi sert la creation d'un Vlan sur un Switch;3;Le vlan permet de sortir sur internet;Le Vlan permet de propager les trames utilisateurs aux travers des switchs et des routeurs;le Vlan permet d'avoir un domaine de diffusion restreinte aux ports appartenant a ce Vlan;Le Vlan permet d'isoler certains ordinateurs qui ne pourront communiquer qu'avec les ordinateurs appartenant aux meme vlan;RS;F31;Routing and Switch;F
+168;Quel type d'adresse correspond 192.168.17.134/29;4;une adresse reseau;une adresse de broadcast;une adresse de multicast;Une adresse hote;RS;F32;Routing and Switch;F
+169;L'interface Ethernet 0 du routeur a ete configuree avec l'adresse IP 10.172.192.168 /255.255.255.240. Quelle est l'adresse du sous reseau a laquelle cette adresse appartient ?;4;10.0.0.0.;10.172.0.0;10.172.192.0;10.172.192.160;RS;F33;Routing and Switch;F
+170;Determinez le nombre de reseaux et d'hotes pour l'adresse IP 192.168.50.0/27;1;8 reseaux/32 hotes;4 reseaux / 62 hotes;32 reseaux / 8 hotes;2 reseaux/8 hotes;RS;F34;Routing and Switch;F
+171;Une adresse IPV4 est code sur :;2;23bits;32bits;128bits;16bits;RS;F35;Routing and Switch;F
+172;Quel Logiciel n'est pas un SGBD;2;Oracle;Gimp2;MYSQL;ACCESS;ACCESS;G6;Access;G
+173;Comment appele t'on un lien entre 2 entites;4;Un Link;Un noeud;Un pont;Une association;ACCESS;G7;Access;G
+174;Quel type d'association existe parmis ceux la :;1;Un a un;Tous ;Partiels;Total;ACCESS;G8;Access;G
+175;Quel type d'association existe parmis ceux la :;2;Temporel;Un a plusieurs;Total;Lien;ACCESS;G9;Access;G
+176;Quel type d'association existe parmis ceux la :;3;Primaire;Interdit;Plusieurs a plusieurs;Relation;ACCESS;G10;Access;G
+177;Parmis ces 4 types de donneees lequel n'est pas un type de donnee d'access;3;Texte;Numero Auto;Logique;Lien Hypertexte;ACCESS;G11;Access;G
+178;Si nous creons dans Access un programme pour automatiser des taches, ce programme se nomme;1;Macro;Etat;Formulaire;Requete;ACCESS;G12;Access;G
+179;Dans une table, un champ en gras est : ;1;Le champ constitue la cle primaire unique;Le champ constitue la cle primaire composite;;;ACCESS;G13;Access;G
+180;Comment se nomme dans Access l'objet permettant d'afficher tous les clients residents d'une ville;4;Macro;Etat;Formulaire;Requete;ACCESS;G14;Access;G
+181;Comment se nomme dans Access l'objet permettant d'imprimer la liste de tous les clients residents d'une ville;2;Macro;Etat;Formulaire;Requete;ACCESS;G15;Access;G
+182;J'ai besoin de manipuler des textes dont la longueur risque d'exceder 256 caracteres quel type de champ vais-je devoir choisir ?;3;Texte;Numero Auto;Memo;Lien Hypertexte;ACCESS;G16;Access;G
+183;Pour assurer l'indexation d'une table sur un seul champ, une cle primaire doit etre;1;primaire unique;primaire composite;secondaire;secondaire composite;ACCESS;G17;Access;G
+184;Pour assurer l'indexation d'une table sur plusieurs champs, une cle primaire doit etre ?;2;primaire unique;primaire composite;secondaire;secondaire composite;ACCESS;G18;Access;G
+185;Parmi les affirmations suivantes, laquelle est fausse ?;3;un formulaire peut contenir un champ calculer;un etat peut contenir un champ calculer;une table peut contenir un champ calculer;une requete peut contenir un champ calculer;ACCESS;G19;Access;G
+186;Dans une table Access comment se nomme une ligne de donnees ?;3;Un champ ;une colonne;un enregistrement;une ligne;ACCESS;G20;Access;G
+187;"Un champ de type ""lien hypertexte"" peut permettre de ?";2;Stocker des images ;Stocker des URL;Stocker des textes longs;Stocker des dates;ACCESS;G21;Access;G
+188;il est possible de rendre obligatoire la saisie d'un champ, quel controle de validiter faut il alors utiliser ?;3;Marque de saisie;Valide si;Chaine vide autorisee;Message si erreur;ACCESS;G22;Access;G
+189;Quel type de donnees ne peut pas definir un champ d'une table Access;2;Texte ;Pourcentage;Monetaire;Date;ACCESS;G23;Access;G
+190;Que signifie SGBD;1;Systeme de gestion de base de donnee;Systeme de gestion de bande dessinee;Systeme de gestion de bilan decisionnel;Systeme de gestion de bricolage divers;ACCESS;G24;Access;G
+191;Les donnees saisies dans un formulaire Access sont-elle stockees dans des tables;1;Oui;Non;;;ACCESS;G25;Access;G
+192;Quel bouton faut-il actionner pour afficher les operations d'une requete Access;1;Somme ;Formulaire;Monetaire;Formulaire;ACCESS;G26;Access;G
+193;A quoi sert la cle primaire d'une table;1;distinguer chaque enregistrement de facon unique;Enregistrer toutes les donnees;Effectuer les mises a jour;Dupliquer plusieurs ligne de table;ACCESS;G27;Access;G
+194;Une table Access peut contenir au maximum;3;100 champs;255 champs;1024 champs;Autant de champs que necessaire;ACCESS;G28;Access;G
+195;Un champ Texte peut avoir une taille maximale de :;2;128 caracteres;255 caracteres;65000 caracteres;1 giga-octets;ACCESS;G29;Access;G
+196;Pour stocker des valeurs entieres inferieures ou egales a 100 000, vous utiliseriez :;3;Un champ Numerique / Octet;Un champ Numerique / Entier;Un champ Numerique / Entier long;Un champ Numerique / Reel double;ACCESS;G30;Access;G
+197;Que permet de faire le logiciel VeraCrypt;4;De chiffrer des fichiers et repertoires;De chiffrer des disques durs uniquement;De chiffrer des cles USB uniquement;De chiffrer des disques durs et cles usb;SECU;H6;Securite;H
+198;La norme 27001 est-elle obligatoire ?;2;Oui;Non;vide;vide;SECU;H7;Securite;H
+199;Quelle est la norme concernant la Wifi 4 ?;1;802.11n;802.11ac;802.11ax;802.11d;SECU;H8;Securite;H
+200;Quelle est la norme concernant la Wifi 5 ?;2;802.11n;802.11ac;802.11ax;802.11d;SECU;H9;Securite;H
+201;Quelle est la norme concernant la Wifi 6 ?;3;802.11n;802.11ac;802.11ax;802.11d;SECU;H10;Securite;H
+202;La norme 802.11n permet un debit theorique jusqu’a 600Mb/s;1;VRAI;FAUX;vide;vide;SECU;H11;Securite;H
+203;Quelle norme Wifi permet un debit theorique jusqu’a 10 Gb/s ?;3;802.11n;802.11ac;802.11ax;802.11d;SECU;H12;Securite;H
+204;Quelle Affirmation sur la mise a jour d'un anti-virus est fausse ?;4;La mise a jour de l'antivirus peut se faire par internet;La mise a jour de l'antivirus peut etre lancee manuellement;La mise a jour de l'antivirus peut etre lancee automatiquement;La mise a jour de l'antivirus peut se faire sans connexion a Internet, a partir du CD d'installation;SECU;H13;Securite;H
+205;Quelle est l'information fausse ?;2;Un antivirus peut detruire un fichier infecte;Un antivirus peut interdire l'acces a des sites infectes;un antivirus peut detecter, isoler, reparer un fichier infecte;Un antivirus peut mettre en quarantaine un fichier suspect;SECU;H14;Securite;H
+206;Parmis les types de fichier suivant, lequel n'est pas susceptible de contenir un virus ?;4;zip;exe;xls;txt;SECU;H15;Securite;H
+207;Parmis les type de logiciels suivants, lequel est susceptible d'executer des virus contenus dans les documents qu'il ouvre ? ;3;Un logiciel de projection de films mpeg;Un logiciel de lecture de fichiers mp3;Un logiciel de traitement de texte (Word);Un logiciel de retouche d'image jpeg;SECU;H16;Securite;H
+208;Parmis les fichiers suivants dont la source d'expedition n'est pas sure, lesquel pourrait presenter un risque pour un ordinateur;1;Photo_de_vacances.zip;Photo_de_vacances.jpg;Photo_de_vacances.txt;Musique_de_vacances.mp3;SECU;H17;Securite;H
+209;Quest-ce qu'un virus NE peut PAS menacer ?;4;La confidentialite des donnees;Le fonctionnement de l'ecran;Le fonctionnement des programmes;La ROM de l'ordinateur;SECU;H18;Securite;H
+210;Parmi les affirmations suivantes, laquelle est vrai pour un virus?;2;Il ne pourra jamais s'installer si l'ordinateur possede un antivirus;Il peut utiliser le reseau pour se propager;Il ne s'attrape que par la messagerie electronique;Il detruit systematiquement tous les fichiers du disque dur;SECU;H19;Securite;H
+211;Quelle fonction releve du role d'un pare-feu;4;Detecter les virus;Proteger des pannes de courant;Empecher l'installation d'un logiciel espion;Eviter l'instrusion d'un pirate via le reseau;SECU;H20;Securite;H
+212;Une sauvegarde de type incrementielle permet une sauvegarde plus lente qu'une differentielle mais une restauration plus rapide ?;2;VRAI;FAUX;vide;vide;SECU;H21;Securite;H
+213;Que represente les adresses Web se terminant par .onion;3;une nouvelle technologie qui n'est plus utilisee depuis 2008;Ce sont des adresses Web ne fonctionnant qu'en europe;"des ""services cache"" necessitant un fureteur (navigateur) particulier comme Tor browser";Toutes ces reponses;SECU;H22;Securite;H
+214;Le service DHCP, est-ce qu'il permet d'affecter toujours la meme adressage IP a un appareil;1;VRAI;FAUX;vide;vide;SECU;H23;Securite;H
+215;Ques-ce que Radius ?;3;Un os du squelette humain;Le nom d'un general Romain;Un service d'authentification;un logiciel de type pare-feux;SECU;H24;Securite;H
+216;Le RAID de type 1 offre de la tolerance aux pannes au niveau disques ?;1;VRAI;FAUX;vide;Vide;SECU;H25;Securite;H
+217;OneDrive est une solution d'hebergement Cloud grand publique Microsoft;1;VRAI;FAUX;vide;Vide;SECU;H26;Securite;H
+218;Comment se nomme le Cloud Microsoft au niveau infrastructure;2;Mistral;Azure;Blue Lagoon;Ocean;SECU;H27;Securite;H
+219;Comment se nomme une table de Hash pre-calcules en anglais ?;2;All the way;Rainbow Table;Hash Table;Rain Table;SECU;H28;Securite;H
+220;Windows Hello est un dispositif de windows 10 qui permet de se connecter de facon plus personnelle, par simple reconnaissance d'iris ou d'empreintes digitales;1;VRAI;FAUX;vide;Vide;SECU;H29;Securite;H
